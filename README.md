@@ -11,8 +11,8 @@
 
 <h2>⚒️ Languages and Tools</h2>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,python,java,mysql,php,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=vscode,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,python,java,mysql,php"/><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap" /><br>
 </div>
 <br/><br/><br/>
 
